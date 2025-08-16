@@ -1,5 +1,5 @@
 # Python_mini_projects
-This repo has mini python projects to practice programming concepts.
+This repository contains mini python projects made using basic programming concepts. These projects are small, easy to understand and beginner-friendly.
 
 ## Projects included:
 
