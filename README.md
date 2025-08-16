@@ -1,4 +1,4 @@
-# python-mini-projects
+# Python_mini_projects
 This repo has mini python projects to practice programming concepts.
 
 ## Projects included:
